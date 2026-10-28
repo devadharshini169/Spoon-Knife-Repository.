@@ -9,9 +9,30 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 ## Contribution
 
-This project demonstrates the GitHub fork-and-pull request workflow.
+This project demonstrates collaborative software development using the Git and GitHub fork-and-pull request workflow.
 
 ### Changes Made
-- Updated project documentation.
-- Practiced creating a feature branch.
-- Prepared changes for collaborative review.
+
+- Updated the project documentation.
+- Created a feature branch named `update-readme`.
+- Practiced committing and pushing changes to GitHub.
+- Prepared changes for review through a pull request.
+
+### Fork-and-Pull Request Workflow
+
+1. Fork the original repository to your GitHub account.
+2. Clone the fork to your local computer.
+3. Create a feature branch.
+4. Modify project files and commit the changes.
+5. Push the feature branch to GitHub.
+6. Create a pull request for review.
+7. Respond to feedback and update the branch if needed.
+8. Merge the approved changes into the main branch.
+
+### Objective
+
+To understand how developers collaborate on projects, review code changes, and contribute improvements using Git and GitHub.
+
+### Result
+
+Successfully practiced the fork-and-pull request workflow for collaborative development.
